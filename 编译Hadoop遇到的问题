@@ -1,1 +1,2 @@
 https://zhuanlan.zhihu.com/p/268566812
+mvn package -Pdist,native -DskipTests -Dtar
